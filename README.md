@@ -1,7 +1,7 @@
 # Foreign-Assistance-Dashboard-Data-Processing
 This repo provides transparency on how the USAID Foreign Assistance Dashboard Map data was processed and created.
 
-General updating process and data processing procedures for GeoCenter
+<b>General updating process and data processing procedures for GeoCenter</b>
 
 Full Foreign Assistance Dashboard Spreadsheet Processing
 1.	Download Full Foreign Assistance Dashboard dataset and USAID Transaction dataset as excel
