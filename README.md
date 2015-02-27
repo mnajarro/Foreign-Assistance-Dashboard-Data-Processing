@@ -2,6 +2,7 @@
 This repo provides transparency on how the USAID Foreign Assistance Dashboard Map data was processed and created.
 
 General updating process and data processing procedures for GeoCenter
+
 Full Foreign Assistance Dashboard Spreadsheet Processing
 1.	Download Full Foreign Assistance Dashboard dataset and USAID Transaction dataset as excel
 2.	Import into STATA and extract Spent and Obligated data only for USAID
@@ -14,6 +15,7 @@ a.	Calculate totals and shares by country (operating unit), category and by fisc
 8.	Remove any USAID offices that are not countries
 9.	Rename countries to meet DOS country naming standards.
 10.	Added flag image URLs for countries on Dollars to results site
+
 GIS Processing
 1.	Data is joined with Department of State Large Scale International Boundaries polygon file in ArcGIS Desktop. 
 a.	Removed all FY 2014 and above data(only showing complete data up to FY 2013)
