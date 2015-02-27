@@ -47,7 +47,11 @@ This is a general overview of the data processing. For specific details see the 
     + Edited country codes in the table. (SUP and SUB(withboundaries))   
     + sorted data so that South Sudan and Sudan are overlapping Sudan Pre-2011  
     + Created custom color ramp classifications  
-6. Web Map application configured to display Spent/obligated, Fiscal Year and Category  
+6. Web Map application configured to display Spent/obligated, Fiscal Year and Category    
+
+===
+
+*Disclaimer: The findings, interpretation, and conclusions expressed herein are those of the authors and do not necessarily reflect the views of United States Agency for International Development or the United States Government. All errors remain our own. Contact us with questions at geocenter[at]usaid.gov.*  
 
 
 [1]: http://geocenterdev.org/ForeignAssistance/index.html
