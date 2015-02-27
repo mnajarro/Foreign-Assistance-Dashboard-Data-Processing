@@ -25,7 +25,7 @@ This is a general overview of the data processing. For specific details see the 
 
 **GIS Processing**  
 
-1. Data is joined with Department of State Large Scale International Boundaries polygon file in ArcGIS Desktop          
+1. Data is joined with [Department of State Large Scale International Boundaries polygon file][4] in ArcGIS Desktop          
     + Removed all FY 2014 and above data(only showing complete data up to FY 2013)   
     + Multiply shares by 100 to convert decimals to percent    
 2. Converted Spreadsheet to a GeoDatabase Table in the Foreign Assistance Dashboard geodatabase    
@@ -53,6 +53,7 @@ This is a general overview of the data processing. For specific details see the 
 [1]: http://geocenterdev.org/ForeignAssistance/index.html
 [2]: http://www.foreignassistance.gov/web/Documents/Full_ForeignAssistanceData.zip
 [3]: http://www.foreignassistance.gov/web/Documents/Full_ForeignAssistanceData_Transaction.zip  
+[4]: https://hiu.state.gov/data/data.aspx
 
 
 
