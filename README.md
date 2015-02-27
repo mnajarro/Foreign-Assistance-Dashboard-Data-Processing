@@ -14,8 +14,8 @@ This is a general overview of the data processing. For specific details see the 
 1. Download [Full Foreign Assistance Dashboard dataset][2] and [USAID Transaction dataset][3] as excel
 2. Import into Stata and extract Spent and Obligated data only for USAID 
 3. Remove any duplicates in the data  
-4. Calculate aggregates over time, and by category over time 
-    + Calculate totals and shares by country (operating unit), category and by fiscal year
+4. Calculate aggregates over time, and by category over time. 
+5. Calculate totals and shares by country (operating unit), category and by fiscal year.
 5. Generate percent change for each Category
 6. Calculate at the Global scale the Spent and Obligated by sector and by year
 7. Spent and Obligated are merged and stacked
