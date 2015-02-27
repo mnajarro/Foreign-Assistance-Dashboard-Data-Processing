@@ -9,8 +9,9 @@ This repo describes on how the [USAID Foreign Assistance Dashboard Map][1] data 
 *General updating process and data processing procedures for GeoCenter*
 
 **Full Foreign Assistance Dashboard Spreadsheet Processing**  
-
-1. Download Full Foreign Assistance Dashboard dataset and USAID Transaction dataset as excel
+This is a general overview of the data processing. For specific details see the ```Stata``` folder and the corresponding ```.do``` files.  
+  
+1. Download [Full Foreign Assistance Dashboard dataset][2] and [USAID Transaction dataset][3] as excel
 2. Import into Stata and extract Spent and Obligated data only for USAID 
 3. Remove any duplicates in the data  
 4. Calculate aggregates over time, and by category over time 
@@ -49,7 +50,9 @@ This repo describes on how the [USAID Foreign Assistance Dashboard Map][1] data 
 6. Web Map application is configured to display Spent/obligated, Fiscal Year and Category  
 
 
-[1]: http://geocenterdev.org/ForeignAssistance/index.html  
+[1]: http://geocenterdev.org/ForeignAssistance/index.html
+[2]: http://www.foreignassistance.gov/web/Documents/Full_ForeignAssistanceData.zip
+[3]: http://www.foreignassistance.gov/web/Documents/Full_ForeignAssistanceData_Transaction.zip  
 
 
 
