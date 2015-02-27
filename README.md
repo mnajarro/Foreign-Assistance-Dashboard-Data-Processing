@@ -17,8 +17,6 @@ This repo provides transparency on how the USAID Foreign Assistance Dashboard Ma
 9. Rename countries to meet DOS country naming standards.
 10. Added flag image URLs for countries on Dollars to results site  
 
-===
-
 **GIS Processing**  
 
 1. Data is joined with Department of State Large Scale International Boundaries polygon file in ArcGIS Desktop          
