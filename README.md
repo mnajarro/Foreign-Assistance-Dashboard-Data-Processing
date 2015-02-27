@@ -14,13 +14,13 @@ This is a general overview of the data processing. For specific details see the 
 1. Download [Full Foreign Assistance Dashboard dataset][2] and [USAID Transaction dataset][3] as excel
 2. Import into Stata and extract Spent and Obligated data only for USAID 
 3. Remove any duplicates in the data  
-4. Calculate aggregates over time, and by category over time. 
-5. Calculate totals and shares by country (operating unit), category and by fiscal year.
-5. Generate percent change for each Category
-6. Calculate at the Global scale the Spent and Obligated by sector and by year
-7. Spent and Obligated are merged and stacked
+4. Calculate aggregates over time, and by category over time 
+5. Calculate totals and shares by country (operating unit), category and by fiscal year
+5. Generate percent change for each category
+6. Calculate at the clobal scale the Spent and Obligated by sector and by year
+7. Merge Spent and Obligated dataare sets and if necessary reshape them to form a panel
 8. Remove any USAID offices that are not countries
-9. Rename countries to meet DOS country naming standards.
+9. Rename countries to meet DOS country naming standards
 10. Added flag image URLs for countries on Dollars to results site  
 
 **GIS Processing**  
@@ -28,7 +28,7 @@ This is a general overview of the data processing. For specific details see the 
 1. Data is joined with [Department of State Large Scale International Boundaries polygon file][4] in ArcGIS Desktop          
     + Removed all FY 2014 and above data(only showing complete data up to FY 2013)   
     + Multiply shares by 100 to convert decimals to percent    
-2. Converted Spreadsheet to a GeoDatabase Table in the Foreign Assistance Dashboard geodatabase    
+2. Converted spreadsheet to a geodatabase table in the Foreign Assistance Dashboard geodatabase    
 3. Set sector domains using the category domain field and used abbreviations   
     + Domain Field Codes in Geodatabase  
         - All - All (Total)  
@@ -39,15 +39,15 @@ This is a general overview of the data processing. For specific details see the 
         - Peace - Peace and Security  
         - PM - Program Management     
         - Mulit - Multi-Sector  
-4. Data is symbolized in ArcMap and uploaded as a Feature service in ArcGIS for Server.   
+4. Data is symbolized in ArcMap and uploaded as a feature service in ArcGIS for Server.   
 5. Symbology  
     + Sudan and PreSudan2011  
     + Removed Sudan FY 2010 and 2009 values (only 4 rows)  
     + added 2 polygons to State Department LSIB file  for PreSudan 2011 (with South Sudan Border and without)  
-    + Edited country codes in the codes in the table. (SUP and SUB(withboundaries))   
-    + sorted data so that South Sudan and Sudan were overlapping Sudan Pre-2011  
+    + Edited country codes in the table. (SUP and SUB(withboundaries))   
+    + sorted data so that South Sudan and Sudan are overlapping Sudan Pre-2011  
     + Created custom color ramp classifications  
-6. Web Map application is configured to display Spent/obligated, Fiscal Year and Category  
+6. Web Map application configured to display Spent/obligated, Fiscal Year and Category  
 
 
 [1]: http://geocenterdev.org/ForeignAssistance/index.html
