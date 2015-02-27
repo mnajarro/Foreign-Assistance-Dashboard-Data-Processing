@@ -5,7 +5,7 @@ This repo provides transparency on how the USAID Foreign Assistance Dashboard Ma
 
 <b>Full Foreign Assistance Dashboard Spreadsheet Processing<b>
 <ol>
-1.	Download Full Foreign Assistance Dashboard dataset and USAID Transaction dataset as excel
+<li>1.	Download Full Foreign Assistance Dashboard dataset and USAID Transaction dataset as excel</li>
 2.	Import into STATA and extract Spent and Obligated data only for USAID
 3.	Remove any duplicates in the data
 4.	Calculate aggregates overtime, and by category overtime
