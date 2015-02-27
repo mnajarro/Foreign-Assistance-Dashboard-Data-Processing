@@ -1,4 +1,7 @@
 ### Foreign-Assistance-Dashboard-Data-Processing
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/5873344/6418718/5fdf6054-be85-11e4-9dfd-cc43b8137e7c.PNG" width="600px" height="600px" /> 
+</p>
 This repo provides transparency on how the USAID Foreign Assistance Dashboard Map data was processed and created.
 
 *General updating process and data processing procedures for GeoCenter*
