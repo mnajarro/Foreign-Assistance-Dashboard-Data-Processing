@@ -8,7 +8,7 @@ This repo provides transparency on how the USAID Foreign Assistance Dashboard Ma
 2. Import into STATA and extract Spent and Obligated data only for USAID  
 3. Remove any duplicates in the data  
 4. Calculate aggregates overtime, and by category overtime  
-  -  Calculate totals and shares by country (operating unit), category and by fiscal year    
+  -  Calculate totals and shares by country (operating unit), category and by fiscal year      
 5. Generate percent change for each Category  
 6. Calculate at the Global scale the Spent and Obligated by sector and by year
 7. Spent and Obligated are merged and stacked
