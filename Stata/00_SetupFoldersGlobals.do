@@ -48,7 +48,7 @@ foreach dir in `pFolder' {
 
 * Run initially to set up folder structure
 * Choose your folders to set up as the local macro `folders'
-local folders Rawdata Stata Datain Log Output Dataout Excel PDF Word Graph GIS Export R
+local folders Rawdata Stata Datain Log Output Dataout Excel PDF Word Graph GIS Export R Python
 foreach dir in `folders' {
 	confirmdir "`dir'"
 	if `r(confirmdir)'==170 {
