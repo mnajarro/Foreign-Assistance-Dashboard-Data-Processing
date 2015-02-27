@@ -2,7 +2,7 @@
 <p align="left">
   <img src="https://cloud.githubusercontent.com/assets/5873344/6418718/5fdf6054-be85-11e4-9dfd-cc43b8137e7c.PNG"/> 
 </p>
-This repo provides transparency on how the USAID Foreign Assistance Dashboard Map data was processed and created.
+This repo provides transparency on how the [USAID Foreign Assistance Dashboard Map][1] data was processed and created.
 
 ===  
 
@@ -47,4 +47,9 @@ This repo provides transparency on how the USAID Foreign Assistance Dashboard Ma
     + sorted data so that South Sudan and Sudan were overlapping Sudan Pre-2011  
     + Created custom color ramp classifications  
 6. Web Map application is configured to display Spent/obligated, Fiscal Year and Category  
+
+
+[1]: http://geocenterdev.org/ForeignAssistance/index.html  
+
+
 
