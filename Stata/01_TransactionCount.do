@@ -1,12 +1,10 @@
 /*-------------------------------------------------------------------------------
-# Name:			01_TransactionCount
-# Purpose:		Create a count of USAID financial transactions at country-level
-# Author:		Tim Essam, Ph.D.
-# Created:		22/01/2014
-# Copyright:	USAID GeoCenter
-# License:		<Tim Essam Consulting/OakStream Systems, LLC>
-# Ado(s):		confirmdir, mvfiles, fs, tab3way, confirmdir, mvfiles, fs
-# Dependencies: none
+# Name:		01_TransactionCount
+# Purpose:	Create a count of USAID financial transactions at country-level
+# Author:	Tim Essam, Ph.D. (USAID GeoCenter / OakStream Systems, LLC)
+# Created:	22/01/2014
+# License:	MIT
+# Ado(s):	lab2html
 #-------------------------------------------------------------------------------
 */
 
