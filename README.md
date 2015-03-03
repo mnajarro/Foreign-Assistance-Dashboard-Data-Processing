@@ -1,5 +1,5 @@
 #### Foreign-Assistance-Dashboard-Data-Processing
-<p align="left">
+<p align="center">
   <img src="https://cloud.githubusercontent.com/assets/5873344/6418718/5fdf6054-be85-11e4-9dfd-cc43b8137e7c.PNG" width="700px" height="400px"/> 
 </p>
 This repo describes on how the [USAID Foreign Assistance Dashboard Map][1] data was processed and how the team produced the map.
