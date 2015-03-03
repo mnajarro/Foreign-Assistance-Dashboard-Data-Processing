@@ -5,7 +5,7 @@
 # Contact:	tessam[at]usaid.gov
 # Created:	22/01/2014
 # License:	MIT
-# Ado(s):	confirmdir, mvfiles, fs, tab3way, confirmdir, mvfiles, fs
+# Ado(s):	confirmdir
 #-------------------------------------------------------------------------------
 */
 
