@@ -3,7 +3,7 @@
 # Purpose:	Process Foreign Assistance data for visualization in AGOL
 # Author:	Tim Essam, Ph.D. (USAID GeoCenter/OakStream Systems, LLC)
 # Contact:	tessam[at]usaid.gov
-# Created:	22/01/2014
+# Created:	01/22/2014
 # License:	MIT
 # Ado(s):	confirmdir
 #-------------------------------------------------------------------------------
