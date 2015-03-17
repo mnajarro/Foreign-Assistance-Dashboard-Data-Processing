@@ -15,7 +15,7 @@ capture log close
 log using "$pathlog/FullFAD", replace
 
 * ######################################################
-/* NOTE: If used data on from github skip lines 20-36 *
+/* NOTE: If used on data from Github skip lines 20-36 *
 #######################################################*/
 
 * Download data from FAD website (www.foreignassistance.gov) & unzip it
